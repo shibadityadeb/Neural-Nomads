@@ -29,5 +29,5 @@ We used a publicly available dataset containing information about stars — such
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/benfords-law-stars.git
-cd benfords-law-stars
+git clone https://github.com/shibadityadeb/Neural-Nomads
+cd Neural-Nomads
